@@ -1,0 +1,9 @@
+.card-img-top{
+    width: 20rem;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: auto;
+    font-size: .8rem;
+}

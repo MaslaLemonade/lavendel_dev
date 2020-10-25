@@ -1,0 +1,33 @@
+
+div.servicestack {
+    display: flex;
+    flex-direction: row;
+    margin: 1rem;
+    background-color: lavender;
+    
+  }
+  .hour-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .price-box{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+  }
+  
+  .serviceimg{
+    width: 4rem;
+    margin: 0.5rem;
+  }
+  .serviceimg > img{
+      width: inherit;
+    
+  }
+
+  .servicedesc {
+    flex: auto;
+    text-align: initial;
+    padding: 0.5rem;
+  }

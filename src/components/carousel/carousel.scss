@@ -1,0 +1,20 @@
+.row{
+flex-wrap: nowrap;
+overflow-x: auto;
+//width: 100%
+}
+.col {
+min-width: 70%;
+padding: 0%;
+}
+.card
+{
+    background-color: rosybrown;
+    padding: 0%;
+} 
+.card.img{
+padding:0%;
+margin: 0%;
+}
+
+   
